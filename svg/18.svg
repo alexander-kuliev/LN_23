@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100.01mm" height="100.02mm" viewBox="0 0 283.49 283.51">
+  <defs>
+    <style>
+      .a {
+        fill: #231f20;
+      }
+
+      .b {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <polygon class="a" points="151.25 32.74 246.44 32.74 246.44 242.1 236.92 242.1 46.57 242.1 37.05 242.1 37.05 32.74 132.24 32.74 151.25 32.74"/>
+  <rect class="b" width="283.49" height="283.51"/>
+</svg>

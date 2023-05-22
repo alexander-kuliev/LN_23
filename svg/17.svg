@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100.01mm" height="100mm" viewBox="0 0 283.49 283.47">
+  <defs>
+    <style>
+      .a {
+        fill: #231f20;
+      }
+
+      .b {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <rect class="a" x="46.57" y="46.57" width="190.32" height="190.32"/>
+  <rect class="b" width="283.49" height="283.47"/>
+</svg>

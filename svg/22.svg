@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100mm" height="100mm" viewBox="0 0 283.47 283.47">
+  <defs>
+    <style>
+      .a {
+        fill: #231f20;
+      }
+
+      .b {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <path class="a" d="M141.71,208.36q-66.68,0-66.6-66.58t66.6-66.62c44.32,0,66.62,22.28,66.62,66.62S186,208.36,141.71,208.36Z"/>
+  <rect class="b" width="283.47" height="283.47"/>
+</svg>
